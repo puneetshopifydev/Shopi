@@ -1,0 +1,114 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: calc({{ section.settings.padding_top }}px * 0.75);
+    padding-bottom: calc({{ section.settings.padding_bottom }}px  * 0.75);
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+
+{{ 'section-main-page-sidebar.css' | asset_url | stylesheet_tag }}
+
+<link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
+<noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
+
+<div class="page-width{% if section.settings.narrow %} page-width--inner{% endif %} section-{{ section.id }}-padding">
+  <h1 class="page-title">
+    {{ page.title | escape }}
+  </h1>
+  {%- unless section.blocks.size > 0 -%}
+    <div class="rte">
+      {{ page.content }}
+    </div>
+  {%- else -%}
+  <div class="grid main-page-content">
+    <div class="grid__item grid__item--two-third">
+      <div class="rte">
+        {{ page.content }}
+      </div>
+    </div>
+    <div class="grid__item grid__item--one-third">
+      <div class="page-sidebar">
+        {%- for block in section.blocks -%}
+          {%- case block.type -%}
+          {%- when 'text' -%}
+            <h2 class="heading h4" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+            <div class="rte typeset">{{ block.settings.content }}</div>
+          {%- when 'separator' -%}
+            <hr/>
+          {%- endcase -%}
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+  {%- endunless -%}
+</div>
+
+{% schema %}
+{
+  "name": "t:sections.main-page-sidebar.name",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "narrow",
+      "default": true,
+      "label": "t:sections.main-page-sidebar.settings.narrow.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.header"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "t:sections.all.padding.unit",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 60
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "t:sections.all.padding.unit",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 60
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "name": "t:sections.main-page-sidebar.blocks.text.name",
+      "limit": 4,
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "default": "Customer service",
+          "label": "t:sections.main-page-sidebar.blocks.text.settings.heading.label"
+        },
+        {
+          "type": "richtext",
+          "id": "content",
+          "label": "t:sections.main-page-sidebar.blocks.text.settings.content.label"
+        }
+      ]
+    },
+    {
+      "type": "separator",
+      "name": "t:sections.main-page-sidebar.blocks.separator.name"
+    }
+  ]
+}
+{% endschema %}

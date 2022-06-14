@@ -1,0 +1,509 @@
+{
+  "sections": {
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "du·ra·ble | adjective",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Definition<strong>: <\/strong>able to exist for a long time without significant deterioration in quality or value<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Player_Ad_Temp.png",
+        "image_position": "center center",
+        "text_box_position": "center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": true,
+        "full_width": true,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "250px",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 80,
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
+    "16477356167aa28d27": {
+      "type": "reveal-banner",
+      "blocks": {
+        "16477356165467a627-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why We Created Durable™",
+            "heading_size": "h1"
+          }
+        },
+        "89fa3feb-24ac-43a0-b687-a6add23f42d8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If a part of your body doesn’t work as well as it used to, we are here to help with innovative, science-based formulas that will have a profound impact on your quality of life. <\/p><p>Yes we all want to live as long as possible. But more important than how <em>long <\/em>you live is how <em>well<\/em> you live.  <\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "16477356165467a627-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "video_button": "PLAY VIDEO",
+            "video_url": "https:\/\/youtu.be\/iqeEqs7oVBM",
+            "video_description": "Describe the video"
+          }
+        },
+        "16477356165467a627-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Why We Created Durable™",
+            "subheading_size": "h1"
+          }
+        },
+        "16477356165467a627-3": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Reveal banner",
+            "heading_size": "h1",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "colors_text": "#212326",
+            "colors_background": "#f3f3f3"
+          }
+        }
+      },
+      "block_order": [
+        "16477356165467a627-0",
+        "89fa3feb-24ac-43a0-b687-a6add23f42d8",
+        "16477356165467a627-2",
+        "16477356165467a627-1",
+        "16477356165467a627-3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_4.png",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "image_ratio": "450px",
+        "full_width": true,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 20,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "1647734974b74de0e7": {
+      "type": "guarantees",
+      "blocks": {
+        "1647734974e49601fd-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "shield",
+            "title": "Doctor Formulated",
+            "text": "<p>Formulated by naturopathic doctors based on the latest scientific research.<\/p>"
+          }
+        },
+        "1647734974e49601fd-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "star",
+            "title": "Made In USA",
+            "text": "<p>Made in the USA in FDA-inspected facilities to pharmaceutical-grade standards.<\/p>"
+          }
+        },
+        "37048026-43b2-4cc3-ab12-500e3263c80b": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "recycle",
+            "title": "Sustainable Packaging",
+            "text": "<p>Packaged in premium glass bottles for the most sustainable packaging possible.<\/p>"
+          }
+        },
+        "fe977e7c-804e-4695-b737-5a80454c7387": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "package",
+            "title": "Free Returns",
+            "text": "<p>One-year one-year guarantee which includes free return shipping so you can order without any risk. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1647734974e49601fd-0",
+        "1647734974e49601fd-1",
+        "37048026-43b2-4cc3-ab12-500e3263c80b",
+        "fe977e7c-804e-4695-b737-5a80454c7387"
+      ],
+      "settings": {
+        "heading": "Durable™ Guarantee",
+        "heading_size": "h1",
+        "layout": "sidebar",
+        "column_alignment": "left",
+        "secondary_background": false,
+        "full_width": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "164773410868d48dfb": {
+      "type": "slideshow",
+      "blocks": {
+        "1647734108dce0cf1c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/oxy-lookbook.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Durable BODY™",
+            "heading_size": "h1",
+            "text": "Designed to promote a healthy inflammatory response throughout your entire body and provide relief for occasional pain and discomfort.",
+            "text_size": "typeset2",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/products\/durable-body",
+            "button_style_secondary": false
+          }
+        },
+        "1647734108dce0cf1c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_3.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Durable™ HEART-CL",
+            "heading_size": "h1",
+            "text": "Formulated to promote healthy, balanced cholesterol levels so your heart and circulatory system stays strong.",
+            "text_size": "typeset2",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/products\/durable-heart-chl",
+            "button_style_secondary": false
+          }
+        },
+        "c3e700dd-cab5-42a5-aaeb-1c8e10ed1887": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_2.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Durable™ SLEEP",
+            "heading_size": "h1",
+            "text": "Features a dual-release system to make sure you get a restful sleep so your body can repair and heal itself, naturally.",
+            "text_size": "typeset2",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/products\/durable-sleep",
+            "button_style_secondary": false
+          }
+        },
+        "e30b25a6-a553-4425-81b5-4bbc23e0e5ab": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Durable™ MIND",
+            "heading_size": "h1",
+            "text": "Designed to keep your memory sharp, while strengthening your ability to focus and quickly recall thoughts.",
+            "text_size": "typeset2",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "5cf66ba4-1af2-4bf9-82dd-49b6ff2b9643": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_4.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Durable™ PROSTATE",
+            "heading_size": "h1",
+            "text": "An innovative formula designed to keep your prostate functioning at optimal levels while reducing nighttime urges.",
+            "text_size": "typeset2",
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/durable-testerone",
+            "button_style_secondary": false
+          }
+        },
+        "f8759a2a-1949-40f4-8e84-b1ab75a854a3": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "text": "Give customers details about the slide image or content on the template.",
+            "text_size": "typeset",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1647734108dce0cf1c-0",
+        "1647734108dce0cf1c-1",
+        "c3e700dd-cab5-42a5-aaeb-1c8e10ed1887",
+        "e30b25a6-a553-4425-81b5-4bbc23e0e5ab",
+        "5cf66ba4-1af2-4bf9-82dd-49b6ff2b9643",
+        "f8759a2a-1949-40f4-8e84-b1ab75a854a3"
+      ],
+      "settings": {
+        "slideshow_type": "modern",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "300px",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#ffffff",
+        "colors_overlay_opacity": 92,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16477367308cd7638e": {
+      "type": "image-with-text",
+      "blocks": {
+        "1647736730095570b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h1"
+          }
+        },
+        "1647736730095570b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For over 20 years I owned and ran a large natural health company, working days and nights developing effective and innovative natural remedies for a wide variety to health concerns. <\/p><p>I eventually sold my brand (it is now owned by a Fortune 500 company) to take some much needed time off, to enjoy more time with my family and take care of my own body, which I had perhaps hypocritically neglected.<\/p><p>I had several health issues that I had let pile up, but number one on my list was my constantly aching back and tight, sore  muscles, which were making the activities I enjoy like hiking, biking and skiing more difficult and uncomfortable with each passing year.  <\/p><p>That’s when I turned to my longtime friend and my primary care physician Dr. Kevin Passero. <\/p><p>As a naturopathic doctor who runs a very successful clinic in the Washington, DC area, Kevin can easily relate to the many patients he has seen who are suffering from similar problems. And when it came to my problems, he knew exactly how to treat me. <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "1647736730095570b4-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1647736730095570b4-0",
+        "1647736730095570b4-1",
+        "1647736730095570b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/b704dfebc4a96b1a5486a9eb5ca8430e.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1647736801c9548132": {
+      "type": "rich-text",
+      "blocks": {
+        "1647736801b955b539-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kevin put me on a specialized supplement regimen. It was actually three different products made by three different brands. I religiously took the 6 pills a day. After a few weeks I started to feel much better. Years of abuse was being rapidly eased out of my body. After 3 months, I felt incredibly rejuvenated as the pain and tightness that had been sapping my energy all but disappeared.  <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "1647736801b955b539-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "It was like the clock turned back 10 years. I could do things I thought I had given up for life. And that’s when I said to Kevin, “You’re really on to something and if we work together we could help a lot of people.”",
+            "heading_size": "h2"
+          }
+        },
+        "ea78fec8-e08b-47f8-9872-15afb8fc36ca": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That was the day a new brand was born. One that was dedicated to harmonizing natural remedies and science into truly effective, life changing health solutions. We decided to call our new brand Durable™, because that single word best sums up what we all would like to achieve as we age – a more durable and resilient  body that feels good and looks good!<\/p><p><br\/>The first product we launched was <a href=\"\/products\/durable-body\" title=\"Durable BODY\">Durable™ Body<\/a>. It was Kevin’s exact regimen that worked so well for me on my back and muscles, except we were able to condense it into one convenient formula that consisted of just two pills per day. And in doing this, we were able to cut the cost by two-thirds. <\/p><p><br\/>As we’ve grown we’ve launched other products including Durable Bones, Durable Sleep and Durable Heart-CL. If a part of your body doesn’t work as well as it used to, we are here to help with innovative, science-based, life-changing formulas that are proven to work – by science and by the many people who are using them to stay active and get more joy out of life.  Give us a try! <br\/><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "1647736801b955b539-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "WATCH VIDEO",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1647736801b955b539-1",
+        "1647736801b955b539-0",
+        "ea78fec8-e08b-47f8-9872-15afb8fc36ca",
+        "1647736801b955b539-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "narrow": false,
+        "mobile_text_alignment": "center",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "1647734053b0a622fb": {
+      "type": "quotes",
+      "disabled": true,
+      "blocks": {
+        "16477340530f5c32cd-0": {
+          "type": "quote",
+          "settings": {
+            "icon": "none",
+            "text": "<p>Add customer reviews and quotes to showcase your store's happy customers.<\/p>",
+            "author": "Author"
+          }
+        },
+        "16477340530f5c32cd-1": {
+          "type": "quote",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and quotes to showcase your store's happy customers.<\/p>",
+            "author": "Author"
+          }
+        },
+        "16477340530f5c32cd-2": {
+          "type": "quote",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and quotes to showcase your store's happy customers.<\/p>",
+            "author": "Author"
+          }
+        }
+      },
+      "block_order": [
+        "16477340530f5c32cd-0",
+        "16477340530f5c32cd-1",
+        "16477340530f5c32cd-2"
+      ],
+      "settings": {
+        "heading": "Quotes",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "1647736530244fd0cb": {
+      "type": "image-with-text",
+      "blocks": {
+        "1647736530e3096338-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet Dr. Kevin Passero",
+            "heading_size": "h1"
+          }
+        },
+        "1647736530e3096338-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dr. Passero is a licensed Naturopathic Doctor whose mission is to bring cutting edge natural and holistic therapies to his patients at his popular clinics in the Washington DC metro area, and to educate people on the value of naturopathic medicine across the country.<\/p><p>His practice focuses on an individualized approach to medicine. His goal is to help people uncover the answers as to why their body is in distress and find the solutions necessary to restore optimal health. <\/p><p>Dr. Passero completed four years of post-graduate naturopathic medical education at the National College of Naturopathic Medicine (NCNM) in Portland, Oregon, one of the leading Naturopathic Medical Schools in North America, after receiving a Bachelor’s Degree in Environmental Biology from the University of Colorado.<\/p><p>He is a former President<br\/>of the Maryland Naturopathic Doctors Association and is an active member of the American Association of Naturopathic Physicians. When he’s not healing people, he’s busy spending time with his family and enjoying the outdoors every chance he gets. <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "1647736530e3096338-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "WATCH VIDEO",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1647736530e3096338-0",
+        "1647736530e3096338-1",
+        "1647736530e3096338-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Passero-Kevin-5-web2.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image-banner",
+    "16477356167aa28d27",
+    "1647734974b74de0e7",
+    "164773410868d48dfb",
+    "16477367308cd7638e",
+    "1647736801c9548132",
+    "1647734053b0a622fb",
+    "main",
+    "1647736530244fd0cb"
+  ]
+}

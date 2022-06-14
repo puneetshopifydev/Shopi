@@ -1,0 +1,307 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1653666492544baddf": {
+      "type": "image-with-text",
+      "blocks": {
+        "165366649293d0391d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_size": "h2"
+          }
+        },
+        "165366649293d0391d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Got a question? We're here to answer! If you don't see your question here, send us an email and someone from our Customer Service team will get back to you as soon as possible. Be sure to include your order number (if you have one).<br\/><br\/>Please email us at <a href=\"mailto:help@livedurable.com\" title=\"mailto:help@livedurable.com\">help@livedurable.com<\/a><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "165366649293d0391d-0",
+        "165366649293d0391d-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/or_website_skincare2021_universals_topimage_1121-1.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165366375465dcd667": {
+      "type": "rich-text",
+      "blocks": {
+        "1653663754484938a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Order Related Questions",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1653663754484938a1-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Use Coupons?",
+            "text": "<p>At checkout, you will see a coupon box for you to enter your code on the right hand side of the screen. If viewing from a mobile device, click on Show Order Summary bar, this will expand to display the coupon box. Enter your coupon code into the box and click on the Apply button. <\/p><p><\/p><p>Please note that we only allow one coupon per order. Some products may be excluded from coupon offers. Coupons cannot be combined with other offers, applied to previous orders or existing subscriptions.<\/p>"
+          }
+        },
+        "question-0": {
+          "type": "question",
+          "settings": {
+            "title": "When Will I Receive My Order?",
+            "text": "<p>Orders ship from our distribution center in 24 - 48 hours. Once your order ships, you will be sent a shipment confirmation email which contains tracking information. Orders should deliver in 4 - 7 business days. If you choose 2nd Day Air, your order should arrive in 2 business days from the date of shipment.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Cancel My Order?",
+            "text": "<p>WILL ADD ONCE MY ACCOUNT FEATURES ARE COMPLETED.<\/p>"
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Get A Refund?",
+            "text": "<p>You have 365 days to request a refund. The refund process is simple, please go to our <a href=\"\/pages\/contact\" title=\"Contact Us\">Help Center<\/a> and complete the form, please note the reason for the return so we can continue to improve our products and customer experience. We will process your request within 48 hours. <\/p>"
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Track My Order?",
+            "text": "<p>You will receive email confirmation once your order has been shipped, which will contain a tracking number for your order. You can also easily track orders by logging into your account. Followed by selecting \"Track Orders & Order History.\"<\/p>"
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Manage My Subscription?",
+            "text": "<p>Click here to login to your account to manage, cancel, pause or change your subscription order. Select the \"Manage My Subscription\" option, and select the specific subscriptions you wish to make changes to. <\/p>"
+          }
+        },
+        "26d62be1-8a14-4cba-a77a-9c6a5c487055": {
+          "type": "question",
+          "settings": {
+            "title": "How Much Is Shipping?",
+            "text": "<p>It is our goal to deliver your order to you in the quickest and most cost-effective manner possible. <\/p><p><\/p><p>Free U.S. shipping is available for products on subscription and orders over $75.<\/p><p><\/p><p>Shipping is automatically calculated prior to submitting your payment information. Simply add items to your cart and proceed to the Checkout page where you will be offered Shipping options and pricing. <\/p>"
+          }
+        },
+        "49d1b685-4d7f-40b8-924f-5d9fb6f60b4f": {
+          "type": "question",
+          "settings": {
+            "title": "Do You Ship Outside the US?",
+            "text": "<p>We currently only ship to Canada outside the US. If under $200, a standard shipping rate of $24.95 is applied to your order at checkout (please note billing and shipping addresses must be filled out in order to view the Canadian shipping rate). Duty and taxes are not included, and shipping will take 10-14 business days (does not include processing time). Please note no returns\/refunds accepted on Canadian orders; if multiple attempts are made by shipping companies and\/or Naomi Whittel Brands with no response by you, the customer, we will not reship or refund your order.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-0",
+        "question-2",
+        "question-3",
+        "question-4",
+        "question-5",
+        "26d62be1-8a14-4cba-a77a-9c6a5c487055",
+        "49d1b685-4d7f-40b8-924f-5d9fb6f60b4f"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16536643026d5fb947": {
+      "type": "rich-text",
+      "blocks": {
+        "16536643026666e04f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Managing My Account",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16536643026666e04f-0"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16536643636b1d06c1": {
+      "type": "faq",
+      "blocks": {
+        "165366436337487c93-0": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Login to My Account?",
+            "text": "<p><a href=\"\/account\/login\" title=\"\/account\/login\">Click here<\/a> to login. If you do not have an account, <a href=\"\/account\/register\" title=\"\/account\/register\">click here <\/a>to create an account.<\/p>"
+          }
+        },
+        "165366436337487c93-1": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Create An Account?",
+            "text": "<p><a href=\"\/account\/register\" title=\"\/account\/register\">Click here<\/a> to create an account. Fill in the requested information, if you have ordered before we recommend providing the same email address used on your initial purchase.<\/p>"
+          }
+        },
+        "8400c84f-a662-4c5f-85fb-af0ae9ceb0bb": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Reset My Password?",
+            "text": "<p>If you have forgotten your password and would like to reset it, <a href=\"\/account\/login#recover\" title=\"\/account\/login#recover\">click here<\/a>. Follow the provided steps. You will then be sent a link via email to create a new password. Check any spam or junk folders if you do not receive the email in your Inbox. Please note, that for security purposes the reset link provided in the email will expire after 2 hours.<\/p>"
+          }
+        },
+        "ef7f2e69-df55-49d5-87c9-2cb8cdb466ba": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Update My Mailing or Billing Address?",
+            "text": "<p>Login to your account to change billing or mailing address as well as review past or current orders.<\/p>"
+          }
+        },
+        "b7f9243e-0fca-4ff3-bd88-1a1fc6fd7dca": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Edit My Payment Methods?",
+            "text": "<p>Login to your account. Click on Payment Methods, from there you may select Add a New Payment Method or delete or edit an existing payment option.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165366436337487c93-0",
+        "165366436337487c93-1",
+        "8400c84f-a662-4c5f-85fb-af0ae9ceb0bb",
+        "ef7f2e69-df55-49d5-87c9-2cb8cdb466ba",
+        "b7f9243e-0fca-4ff3-bd88-1a1fc6fd7dca"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16536649720388e8b0": {
+      "type": "rich-text",
+      "blocks": {
+        "1eef2090-cf9e-4b8e-bba6-c8df81d0c200": {
+          "type": "heading",
+          "settings": {
+            "heading": "General Product Questions",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1eef2090-cf9e-4b8e-bba6-c8df81d0c200"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165366501380f6ff3a": {
+      "type": "faq",
+      "blocks": {
+        "1653665013802fdf2b-0": {
+          "type": "question",
+          "settings": {
+            "title": "How Large Are The Pills?",
+            "text": "<p>Our pill sizes vary from product to product. On average, most of our tablets and capsules are 3\/4 of an inch in length, and about as wide as a pencil eraser. Our softgels come in an array of sizes, but most are relatively small and easy to swallow.<\/p>"
+          }
+        },
+        "1653665013802fdf2b-1": {
+          "type": "question",
+          "settings": {
+            "title": "Can I Take Supplements With My Prescription Medication?",
+            "text": "<p>We strongly encourage customers to consult with their physician prior to taking any supplements. Your physician will be able to indicate whether or not any given supplement is safe to take with your prescription medication.<\/p>"
+          }
+        },
+        "1237cd7c-a50a-4827-9ada-fc899623c30b": {
+          "type": "question",
+          "settings": {
+            "title": "Why Is There A Proposition 65 Warning On My Packing Slip?",
+            "text": "<p>The \"Prop 65\" warnings are only required under California law. Prop 65 standards are among the most stringent standards in place anywhere and are often far more stringent than federal standards.<\/p><p><\/p><p>Over 800 chemicals have been listed under California Prop 65. They include pesticides, heavy metals, and other chemicals at certain levels. Certain listed chemicals, such as lead, are widely distributed through the environment in air, soil, water, and rocks. As a result, these types of chemicals are often found in commonly eaten foods and throughout the food supply even though these chemicals are not intentionally added to foods or nutritional supplements.<\/p><p><\/p><p>It should be noted that California product label warning requirements are not usually the same as federal safety requirements. This causes a mismatch between warnings on products sold in California and what is required elsewhere in the U.S.A. So this can explain why sometimes you may see a California Prop 65 warning on a product sold in California but no warning on the same product sold elsewhere. The products are not different; it's just that Prop 65 warnings are required for sales to California consumers.<\/p><p><\/p><p>Additionally, there are various substances that require a California Prop 65 warning at levels that are far more stringent than federal action limits. One example is lead. The Prop 65 standard for warnings for lead is 0.5 micrograms per day, which is far more stringent than federal and international standards for lead.<\/p><p><\/p><p>Prop 65 warnings are seen throughout California in a wide range of settings -- in restaurants, grocery stores, hotels, schools, hospitals, and on a wide variety of consumer products. In addition, some internet and mail order retailers have chosen to provide Prop 65 warnings on their websites or in catalogs for all their products and for all consumers.<\/p>"
+          }
+        },
+        "68a4d9b6-0277-43de-a626-1dbdf2f5f76f": {
+          "type": "question",
+          "settings": {
+            "title": "When Can I Expect To See Results With My Product?",
+            "text": "<p>Everyone reacts differently to natural vitamins and supplements. We recommend trying a product for at least 90 days to allow for full results to be noticed. In order to maintain the results, you will want to continue taking the product.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1653665013802fdf2b-0",
+        "1653665013802fdf2b-1",
+        "1237cd7c-a50a-4827-9ada-fc899623c30b",
+        "68a4d9b6-0277-43de-a626-1dbdf2f5f76f"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1653666492544baddf",
+    "165366375465dcd667",
+    "faq",
+    "16536643026d5fb947",
+    "16536643636b1d06c1",
+    "16536649720388e8b0",
+    "165366501380f6ff3a"
+  ]
+}

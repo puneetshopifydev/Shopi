@@ -1,0 +1,112 @@
+{
+  "sections": {
+    "1653661365df352fbd": {
+      "type": "image-with-text",
+      "blocks": {
+        "1653661365e42962e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We're Here To Help",
+            "heading_size": "h2"
+          }
+        },
+        "1653661365e42962e9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have a question? Our dedicated, educated consultants will work with you to determine the best selection of products and answer any product related questions you may have. Need a refund? No problem just complete the form below. <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "1653661365e42962e9-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1653661365e42962e9-0",
+        "1653661365e42962e9-1",
+        "1653661365e42962e9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/or_website_skincare2021_universals_topimage_1121-1.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": false,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "blocks": {
+        "contact-0": {
+          "type": "contact",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "text": "Click here to read our FAQs",
+            "link": "shopify:\/\/pages\/faqs"
+          }
+        },
+        "contact-1": {
+          "type": "contact",
+          "settings": {
+            "heading": "Customer Service",
+            "text": "help@livedurable.com",
+            "link": "mailto:help@livedurable.com"
+          }
+        },
+        "contact-3": {
+          "type": "contact",
+          "settings": {
+            "heading": "Press or Influencer Inquires",
+            "text": "pr@livedurable.com",
+            "link": "mailto:pr@livedurable.com"
+          }
+        },
+        "media": {
+          "type": "media",
+          "settings": {
+            "heading": "Follow us"
+          }
+        }
+      },
+      "block_order": [
+        "contact-0",
+        "contact-1",
+        "contact-3",
+        "media"
+      ],
+      "settings": {
+        "heading": "Get in touch",
+        "show_phone": true,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "1653661365df352fbd",
+    "main",
+    "form"
+  ]
+}

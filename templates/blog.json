@@ -1,0 +1,156 @@
+{
+  "sections": {
+    "1650227146296f2c0e": {
+      "type": "rich-text",
+      "blocks": {
+        "165022714680b5530d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Guide to Being Durable",
+            "heading_size": "h1"
+          }
+        },
+        "165022714680b5530d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether or not you purchase from us, we want you to learn from us. Our team of professional writers are posting weekly articles to empower you with knowledge!<br\/><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "165022714680b5530d-0",
+        "165022714680b5530d-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "narrow": true,
+        "mobile_text_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "16502248751b3f54a1": {
+      "type": "slideshow",
+      "blocks": {
+        "16502248750be8b6f7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_4.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "TRENDING ARTICLE",
+            "subheading_size": "h5",
+            "heading": "Sleep Well to Age Well",
+            "heading_size": "h2",
+            "text": "Getting enough sleep helps you stay healthy and alert. But, many older people don't sleep well. If you're always sleepy or you find it hard to get enough sleep...",
+            "text_size": "typeset",
+            "button_label": "READ MORE",
+            "button_link": "shopify:\/\/blogs\/news\/sleep-well-to-age-well",
+            "button_style_secondary": false
+          }
+        },
+        "16502248750be8b6f7-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_1_9c359e2c-3fa0-49f4-a69c-489a2765bcb8.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "MOST READ",
+            "subheading_size": "h5",
+            "heading": "Lorem Ipsum",
+            "heading_size": "h2",
+            "text": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown...",
+            "text_size": "typeset",
+            "button_label": "READ MORE",
+            "button_link": "https:\/\/durable-com.myshopify.com\/blogs\/news\/lorem-ipsum",
+            "button_style_secondary": false
+          }
+        },
+        "3feab7ae-c9c9-4caf-8dc2-50140d44f6de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_3.png",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "NEW READ",
+            "subheading_size": "h5",
+            "heading": "Back Pain Remedies",
+            "heading_size": "h2",
+            "text": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout...",
+            "text_size": "typeset",
+            "button_label": "READ MORE",
+            "button_link": "https:\/\/durable-com.myshopify.com\/blogs\/news\/relieve-every-day-back-pain",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16502248750be8b6f7-0",
+        "16502248750be8b6f7-1",
+        "3feab7ae-c9c9-4caf-8dc2-50140d44f6de"
+      ],
+      "settings": {
+        "slideshow_type": "modern",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "300px",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#ffffff",
+        "colors_overlay_opacity": 92,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": true,
+            "show_comment_count": false
+          }
+        },
+        "summary": {
+          "type": "summary",
+          "settings": {}
+        },
+        "read_more": {
+          "type": "read_more",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "summary",
+        "read_more"
+      ],
+      "settings": {
+        "per_page": 6,
+        "show_tag_filter": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 60,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "1650227146296f2c0e",
+    "16502248751b3f54a1",
+    "main"
+  ]
+}
